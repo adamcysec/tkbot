@@ -84,3 +84,10 @@ Use this command to enter a team kill that occured on a previous day.
 
 ![](/pics/manual_entry.png)
 
+---
+
+### 7) Display bot help
+`!tk help`
+
+tkbot will direct message you the bot commands.
+
