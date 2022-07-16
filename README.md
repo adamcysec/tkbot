@@ -9,7 +9,7 @@ All commands start with `!tk`
 ### 1) Add a tk to a user that killed you
 `!tk @user comment`
 
-**Example: **
+**Example:**
 
 `!tk dubious WATCH YOUR AIM`
 
@@ -18,7 +18,7 @@ All commands start with `!tk`
 ### 2) Add a tk to another user
 `!tk @killer @victim comment`
 
-**Example: **
+**Example:**
 
 `!tk @seriousargent @starksnob Next time jump`
 
@@ -34,7 +34,7 @@ All commands start with `!tk`
 
 ---
 
-**Example: **
+**Example:**
 
 `!tk stats @dubious`
 
@@ -53,7 +53,7 @@ All commands start with `!tk`
 ### 7) Manual database entry
 `!tk input @killer @victim mm/dd/yy comment`
 
-**Example: **
+**Example:**
 
 `!tk input @@dubious @seriousargent 07/16/22 Try aiming better!`
 
