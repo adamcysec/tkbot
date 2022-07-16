@@ -13,6 +13,8 @@ All commands start with `!tk`
 
 `!tk dubious WATCH YOUR AIM`
 
+---
+
 ### 2) Add a tk to another user
 `!tk @killer @victim comment`
 
