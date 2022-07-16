@@ -11,7 +11,7 @@ All commands start with `!tk`
 
 **Example:**
 
-`!tk dubious WATCH YOUR AIM`
+`!tk @Adam WATCH YOUR AIM`
 
 ![](/pics/add_tk.png)
 
