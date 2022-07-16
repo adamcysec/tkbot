@@ -64,7 +64,7 @@ All commands start with `!tk`
 
 **Example:**
 
-`!tk input @@dubious @seriousargent 07/16/22 Try aiming better!`
+`!tk input @Madam @Adam 07/16/22 Try aiming better!`
 
 ![](/pics/manual_entry.png)
 
