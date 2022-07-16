@@ -6,9 +6,11 @@ tkbot is a Discord bot to help keep track of [team kills](https://www.urbandicti
 ## tkbot commands
 All commands start with `!tk` 
 
-**Add a tk to a user that killed you**
+### Add a tk to a user that killed you
 `!tk @user comment`
 
-Example: `!tk @ WATCH YOUR AIM`
+Example: 
+
+`!tk @ WATCH YOUR AIM`
 
 
