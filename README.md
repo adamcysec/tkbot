@@ -48,7 +48,7 @@ All commands start with `!tk`
 ---
 
 ### 5) Reset a user's stats
-`!tk reset @seriousargent`
+`!tk reset @Adam`
 
 ![](/pics/stats_cleared.png)
 
