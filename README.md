@@ -13,6 +13,7 @@ All commands start with `!tk`
 
 `!tk dubious WATCH YOUR AIM`
 
+![](/pics/add_tk.png)
 
 
 ---
