@@ -23,7 +23,7 @@ All commands start with `!tk`
 
 **Example:**
 
-`!tk @seriousargent @starksnob Next time jump`
+`!tk @Madam @Adam Next time jump`
 
 ![](/pics/add_tk_to_another.png)
 
