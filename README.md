@@ -25,26 +25,32 @@ All commands start with `!tk`
 
 `!tk @seriousargent @starksnob Next time jump`
 
+![](/pics/add_tk_to_another.png)
+
 ---
 
 ### 3) Show leaderboard
 `!tk leaderboard`
+
+![](/pics/leaderboard.png)
 
 ---
 
 ### 4) Show user stats
 `!tk stats @user`
 
----
-
 **Example:**
 
 `!tk stats @dubious`
+
+![](/pics/user_stats.png)
 
 ---
 
 ### 5) Reset a user's stats
 `!tk reset @seriousargent`
+
+![](/pics/stats_cleared.png)
 
 ---
 
@@ -59,4 +65,6 @@ All commands start with `!tk`
 **Example:**
 
 `!tk input @@dubious @seriousargent 07/16/22 Try aiming better!`
+
+![](/pics/manual_entry.png)
 
