@@ -22,21 +22,33 @@ All commands start with `!tk`
 
 `!tk @seriousargent @starksnob Next time jump`
 
+---
+
 ### 3) Show leaderboard
 `!tk leaderboard`
 
+---
+
 ### 4) Show user stats
 `!tk stats @user`
+
+---
 
 **Example: **
 
 `!tk stats @dubious`
 
+---
+
 ### 5) Reset a user's stats
 `!tk reset @seriousargent`
 
+---
+
 ### 6) Reset all user stats
 `!tk reset ALL`
+
+---
 
 ### 7) Manual database entry
 `!tk input @killer @victim mm/dd/yy comment`
