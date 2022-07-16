@@ -41,7 +41,7 @@ All commands start with `!tk`
 
 **Example:**
 
-`!tk stats @dubious`
+`!tk stats @Madam`
 
 ![](/pics/user_stats.png)
 
