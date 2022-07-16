@@ -10,6 +10,7 @@ All commands start with `!tk`
 `!tk @user comment`
 
 Use this command to report a team mate that killed you.
+
 tkbot will also send words of encouragement to your killer. 
 
 **Example:**
